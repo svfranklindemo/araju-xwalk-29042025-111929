@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/araju/araju-2025-4-29-16-49-25/:/
+ - /content/araju/araju-2025-4-29-16-49-25/metadata.json:/metadata.json
+ - /content/araju/araju-2025-4-29-16-49-25/redirects.json:/redirects.json
